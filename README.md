@@ -1,0 +1,2 @@
+# quantum-careers
+Gain valuable skills and experience essential for future professional opportunities and continued studies. Contribute to the open source Qiskit project, conduct fundamental research into quantum computing, and help people understand the relevance of quantum computing. We are looking for candidates with exposure to quantum computing fundamentals  through formal education or self-directed learning.
