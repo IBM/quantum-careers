@@ -1,18 +1,110 @@
-# Quantum Internships
-**[IBM Quantum internship](https://www.ibm.com/blogs/research/2020/09/2021-ibmquantum-internships/) roles currently available in the United States include:**
+# IBM Quantum Career Opportunities
 
-**Quantum Research Intern — Summer 2021:** Research interns will have the opportunity to focus on experiments, theory, or quantum information science. Areas of research could include superconducting qubits, quantum control, quantum error correction, quantum complexity theory, quantum algorithms, quantum machine learning, and quantum compilers and optimizers (among other areas). PhD student researchers can apply to the [PhD Quantum Research Summer Intern](https://careers.ibm.com/ShowJob/Id/962203/PhD-Quantum-Research-Summer-Intern-2021/?lang=en) job requisite. Master’s student researchers can apply to the [Master’s Quantum Research Summer Intern](https://careers.ibm.com/ShowJob/Id/962207/Master's-Quantum-Research-Summer-Intern-2021/?lang=en) job requisite. We are not accepting undergraduate research intern applications outside of the [Quantum Undergraduate Research at IBM and Princeton (QURIP)](https://www.ibm.com/quantum-computing/internship/qurip) program (we are accepting undergraduate developer and engineer intern applications). Research interns will work with either the IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA) or IBM Research — Almaden (San Jose, California, USA).
+Search the IBM jobs and careers website for additional quantum computing opportunities not listed below:  
+http://ibm.biz/quantum-careers
 
-**Quantum Developer Intern — Summer 2021:** Developer interns will have the opportunity to focus on kernel, algorithm, or model development. Areas of focus could include quantum machine learning, quantum biology and health informatics, quantum algorithms for chemistry, quantum simulations, quantum optimization, cloud microservices, and cloud API (among other areas). PhD student developers can apply to the [PhD Quantum Developer Summer Intern](https://careers.ibm.com/ShowJob/Id/962210/PhD-Quantum-Developer-Summer-Intern-2021/?lang=en) job requisite. Master’s student developers can apply to the [Graduate Quantum Developer Summer Intern](https://careers.ibm.com/ShowJob/Id/962202/Graduate-Quantum-Developer-Summer-Intern-2021/?lang=en) job requisite. Undergraduate student developers can apply to the [Undergraduate Quantum Developer Summer Intern](https://careers.ibm.com/ShowJob/Id/962204/Undergraduate-Quantum-Developer-Summer-Intern-2021/?lang=en) job requisite. Developer interns will work with either the IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA) or IBM Research — Almaden (San Jose, California, USA).
+## Internships
 
-**Quantum Engineer Intern — Summer 2021:** Engineering interns will have the opportunity to focus on hardware of software engineering. Areas of engineering could include superconducting qubits, quantum software architecture, cryoelectronic circuit design, quantum microwave engineering, and quantum FPGA engineering (among other areas). PhD student engineers can apply to the [PhD Quantum Engineering](https://careers.ibm.com/ShowJob/Id/962213/PhD-Quantum-Engineering-Summer-Intern-2021/?lang=en) job requisite. Master’s student engineers can apply to the [Graduate Quantum Engineering Summer Intern](https://careers.ibm.com/ShowJob/Id/962214/Graduate-Quantum-Engineering-Summer-Intern-2021/?lang=en) job requisite. Undergraduate student engineers can apply to the [Undergraduate Quantum Engineering Summer Intern](https://careers.ibm.com/ShowJob/Id/962215/Undergraduate-Quantum-Engineering-Summer-Intern-2021/?lang=en) job requisite. Engineer interns will work with the IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA) or the IBM Systems labs in Rochester, MN or Poughkeepsie, NY.
+Read *Apply for a Summer 2021 IBM Quantum Internship* on the IBM Research Blog:  
+https://ibm.co/quantuminternships
 
-Search the [IBM jobs and careers website for more quantum computing opportunities](https://careers.ibm.com/ListJobs/All/Search/jobtitle/quantum/) at IBM.
+_For IBM Quantum internships in the United States, please apply by Monday, November 2, 2020 in order to receive the best chance at consideration._
 
-_Please apply by Monday, November 2, 2020 in order to receive the best chance at consideration._
+Applicants should submit their resumes to the appropriate job requisite(s) listed below. Cover letters and recommendation letters are _not_ required as part of your initial application.
 
-Applicants should submit their resumes to the appropriate job requisite listed above. Cover letters and recommendation letters are not required as part of your initial application.
+### Quantum Researcher Internships
 
-We will evaluate and make offers to intern candidates on a rolling basis. Note that internships outside of the United States and [Quantum Undergraduate Research at IBM and Princeton (QURIP)](https://www.ibm.com/quantum-computing/internship/qurip) internships will involve a separate application process and may follow a different application timeline. If you have any questions about IBM Quantum internships then please send an email to quantum@us.ibm.com.
+Research interns will have the opportunity to focus on experiments, theory, or quantum information science. Areas of research could include superconducting qubits, quantum control, quantum error correction, quantum complexity theory, quantum algorithms, quantum machine learning, and quantum compilers and optimizers (among other areas).
 
-We are humbled that so many students are eager to make IBM part of launching their careers. We look forward to hearing from you!
+Locations:
+
+- IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
+- IBM Research — Almaden (San Jose, California, USA)
+
+PhD Quantum Research Summer Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/962203/PhD-Quantum-Research-Summer-Intern-2021/
+
+Master’s Quantum Research Summer Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/962207/Master's-Quantum-Research-Summer-Intern-2021/?lang=en
+
+### Quantum Developer Internships
+
+Developer interns will have the opportunity to focus on kernel, algorithm, or model development. Areas of focus could include quantum machine learning, quantum biology and health informatics, quantum algorithms for chemistry, quantum simulations, quantum optimization, cloud microservices, and cloud API (among other areas).
+
+Locations:
+
+- IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
+- IBM Research — Almaden (San Jose, California, USA)
+
+PhD Quantum Developer Summer Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/962210/PhD-Quantum-Developer-Summer-Intern-2021/
+
+Graduate Quantum Developer Summer Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/962202/Graduate-Quantum-Developer-Summer-Intern-2021/
+
+Undergraduate Quantum Developer Summer Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/962204/Undergraduate-Quantum-Developer-Summer-Intern-2021/
+
+### Quantum Engineer Internships
+
+Engineering interns will have the opportunity to focus on hardware of software engineering. Areas of engineering could include superconducting qubits, quantum software architecture, cryoelectronic circuit design, quantum microwave engineering, and quantum FPGA engineering (among other areas).
+
+Locations:
+
+- IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
+- IBM Research — Almaden (San Jose, California, USA)
+- IBM Systems Lab — Rochester, Minnesota, USA
+- IBM Systems Lab — Poughkeepsie, New York, USA
+
+PhD Quantum Engineering (United States):  
+https://careers.ibm.com/ShowJob/Id/962213/PhD-Quantum-Engineering-Summer-Intern-2021/
+
+Graduate Quantum Engineering Summer Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/962214/Graduate-Quantum-Engineering-Summer-Intern-2021/
+
+Undergraduate Quantum Engineering Summer Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/962215/Undergraduate-Quantum-Engineering-Summer-Intern-2021/
+
+### Quantum Designer Internships
+
+Locations:
+
+- IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
+- IBM Research — Austin, Texas, USA
+
+IBM Quantum Design Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/982781/IBM-Quantum-Design-Intern-2021/
+
+### Quantum Offering Manager Internships
+
+Locations:
+
+- IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
+- IBM Research — Almaden (San Jose, California, USA)
+
+IBM Quantum Offering Manager Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/981532/IBM-Quantum-Offering-Manager-Intern-2021/
+
+### Quantum Community Advocate Internships
+
+Locations:
+
+- IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
+- IBM Research — Almaden (San Jose, California, USA)
+
+IBM Quantum Community Advocate Intern (United States):  
+https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%20Intern%20%20%202021
+
+## Early Professional Roles
+
+Research Staff Member (United States):  
+https://careers.ibm.com/ShowJob/Id/955998/2021-Research-Staff-Member/
+
+Postdoctoral Researcher (United States):  
+https://careers.ibm.com/ShowJob/Id/955997/2021-Postdoctoral-Researcher/
+
+Research Software Engineer (United States):
+https://careers.ibm.com/ShowJob/Id/955996/2021-Research-Software-Engineer/
+
+Research Hardware Engineer (United States):  
+https://careers.ibm.com/ShowJob/Id/955995/2021-Research-Hardware-Engineer/
