@@ -10,7 +10,7 @@ https://ibm.co/quantuminternships
 
 _For IBM Quantum internships in the United States, please apply by Monday, November 2, 2020 in order to receive the best chance at consideration._
 
-We will be opening applications for 2021 internship roles in other countries outside of the United States at a later date.
+We will be opening applications for 2021 internship roles in countries outside of the United States at a later date.
 
 Applicants should submit their resumes to the appropriate job requisite(s) listed below. Cover letters and recommendation letters are _not_ required as part of your application.
 
