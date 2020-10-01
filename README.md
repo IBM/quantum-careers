@@ -5,7 +5,7 @@ http://ibm.biz/quantum-careers
 
 ## Internships
 
-Read *Apply for a Summer 2021 IBM Quantum Internship* on the IBM Research Blog:  
+Learn more about the application process by reading *Apply for a Summer 2021 IBM Quantum Internship* on the IBM Research Blog:  
 https://ibm.co/quantuminternships
 
 _For IBM Quantum internships in the United States, please apply by Monday, November 2, 2020 in order to receive the best chance at consideration._
