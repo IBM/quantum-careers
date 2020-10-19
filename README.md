@@ -73,7 +73,7 @@ Locations:
 
 - IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
 - IBM Research — Almaden (San Jose, California, USA)
-- IBM Markham (Markham, Ontario, Candada)
+- IBM Canada (Markham, Ontario, Canada)
 
 IBM Quantum Community Advocate Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%20Intern%20%20%202021
