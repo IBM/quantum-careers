@@ -71,7 +71,7 @@ https://careers.ibm.com/ShowJob/Id/962215/Undergraduate-Quantum-Engineering-Summ
 
 Locations:
 
-- IBM US (Multiple Cities, USA)
+- IBM United States (Multiple Cities, USA)
 - IBM Canada (Markham, Ontario, Canada)
 - IBM Germany (Multiple Cities, Germany)
 
