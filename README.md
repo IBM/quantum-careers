@@ -71,15 +71,19 @@ https://careers.ibm.com/ShowJob/Id/962215/Undergraduate-Quantum-Engineering-Summ
 
 Locations:
 
-- IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
-- IBM Research — Almaden (San Jose, California, USA)
+- IBM US (Multiple Cities, USA)
 - IBM Canada (Markham, Ontario, Canada)
+- IBM Germany (Multiple Cities, Germany)
 
 IBM Quantum Community Advocate Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%20Intern%20%20%202021
 
 Quantum Community Advocate Intern (16 months) (Canada):
 https://careers.ibm.com/ShowJob/Id/999897/Quantum-Community-Advocate-Intern-(16-months)/
+
+Internship/Praktikum: Community Advocate (m/w/x) (Germany):
+https://careers.ibm.com/ShowJob/Id/1017370/Internship-Praktikum-Community-Advocate-(m-w-x)/
+
 
 ### Quantum Designer Internships
 
