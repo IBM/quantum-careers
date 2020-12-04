@@ -22,12 +22,21 @@ Locations:
 
 - IBM Thomas J. Watson Research Center (Yorktown Heights, New York, USA)
 - IBM Research — Almaden (San Jose, California, USA)
+- IBM Research - Tokyo (Tokyo, Japan)
+- IBM Research - Haifa (Haifa, Israel)
 
 PhD Quantum Research Summer Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/962203/PhD-Quantum-Research-Summer-Intern-2021/
 
 Master’s Quantum Research Summer Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/962207/Master's-Quantum-Research-Summer-Intern-2021/?lang=en
+
+2021 IBM Quantum Research Summer Intern (Japan):
+(English) https://careers.ibm.com/ShowJob/Id/1027704/[IBM-Quantum]Research-Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
+(日本語) https://careers.ibm.com/ShowJob/Id/1027704/[IBM-Quantum]Research-Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
+
+2021 IBM Quantum Research Summer Intern (Israel):
+https://careers.ibm.com/ShowJob/Id/1026743/Quantum-Summer-Intern-Research-Lab/ 
 
 ### Quantum Developer Internships
 
@@ -74,6 +83,8 @@ Locations:
 - IBM United States (Multiple Cities, USA)
 - IBM Canada (Markham, Ontario, Canada)
 - IBM Germany (Multiple Cities, Germany)
+- IBM Japan (Tokyo, Japan)
+- IBM South Africa (Sandton, Gauteng, South Africa)
 
 IBM Quantum Community Advocate Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%20Intern%20%20%202021
@@ -83,6 +94,13 @@ https://careers.ibm.com/ShowJob/Id/999897/Quantum-Community-Advocate-Intern-(16-
 
 Internship/Praktikum: Community Advocate (m/w/x) (Germany):
 https://careers.ibm.com/ShowJob/Id/1017370/Internship-Praktikum-Community-Advocate-(m-w-x)/
+
+2021 IBM Quantum Community Advocate Intern (Japan):
+(English) https://careers.ibm.com/ShowJob/Id/1027649/[Quantum-Advocate]Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
+(日本語) https://careers.ibm.com/ShowJob/Id/1027703/[Quantum-Advocate]Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
+
+2021 IBM Quantum Community Advocate Intern (South Africa)
+https://careers.ibm.com/ShowJob/Id/1017317/IBM-Quantum-Community-Advocate-Intern/ 
 
 
 ### Quantum Designer Internships
