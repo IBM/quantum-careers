@@ -32,7 +32,9 @@ Master’s Quantum Research Summer Intern (United States):
 https://careers.ibm.com/ShowJob/Id/962207/Master's-Quantum-Research-Summer-Intern-2021/?lang=en
 
 2021 IBM Quantum Research Summer Intern (Japan):
-(English) https://careers.ibm.com/ShowJob/Id/1027704/[IBM-Quantum]Research-Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
+
+(English) https://careers.ibm.com/ShowJob/Id/1027652/[IBM-Quantum]Research-Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
+
 (日本語) https://careers.ibm.com/ShowJob/Id/1027704/[IBM-Quantum]Research-Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
 
 2021 IBM Quantum Research Summer Intern (Israel):
@@ -96,7 +98,9 @@ Internship/Praktikum: Community Advocate (m/w/x) (Germany):
 https://careers.ibm.com/ShowJob/Id/1017370/Internship-Praktikum-Community-Advocate-(m-w-x)/
 
 2021 IBM Quantum Community Advocate Intern (Japan):
+
 (English) https://careers.ibm.com/ShowJob/Id/1027649/[Quantum-Advocate]Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
+
 (日本語) https://careers.ibm.com/ShowJob/Id/1027703/[Quantum-Advocate]Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
 
 2021 IBM Quantum Community Advocate Intern (South Africa)
