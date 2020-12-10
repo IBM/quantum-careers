@@ -87,6 +87,7 @@ Locations:
 - IBM Germany (Multiple Cities, Germany)
 - IBM Japan (Tokyo, Japan)
 - IBM South Africa (Sandton, Gauteng, South Africa)
+- IBM United Kingdom (Multiple Cities, United Kingdom)
 
 IBM Quantum Community Advocate Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%20Intern%20%20%202021
@@ -103,9 +104,11 @@ https://careers.ibm.com/ShowJob/Id/1017370/Internship-Praktikum-Community-Advoca
 
 (日本語) https://careers.ibm.com/ShowJob/Id/1027703/[Quantum-Advocate]Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
 
-2021 IBM Quantum Community Advocate Intern (South Africa)
+2021 IBM Quantum Community Advocate Intern (South Africa):
 https://careers.ibm.com/ShowJob/Id/1017317/IBM-Quantum-Community-Advocate-Intern/ 
 
+2021 IBM Quantum Community Advocate Intern (United Kingdom):
+https://careers.ibm.com/ShowJob/Id/1032762/2021-IBM-Quantum-Community-Advocate-Intern/ 
 
 ### Quantum Designer Internships
 
