@@ -24,6 +24,7 @@ Locations:
 - IBM Research — Almaden (San Jose, California, USA)
 - IBM Research - Tokyo (Tokyo, Japan)
 - IBM Research - Haifa (Haifa, Israel)
+- IBM Research - Zurich (Zurich, Switzerland)
 
 PhD Quantum Research Summer Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/962203/PhD-Quantum-Research-Summer-Intern-2021/
@@ -39,6 +40,10 @@ https://careers.ibm.com/ShowJob/Id/962207/Master's-Quantum-Research-Summer-Inter
 
 2021 IBM Quantum Research Summer Intern (Israel):
 https://careers.ibm.com/ShowJob/Id/1026743/Quantum-Summer-Intern-Research-Lab/ 
+
+Master's student or intern - Cryogenic CMOS data converters for qubit control and readout (Switzerland):
+https://www.zurich.ibm.com/careers/2020_048.html
+
 
 ### Quantum Developer Internships
 
@@ -88,6 +93,7 @@ Locations:
 - IBM Japan (Tokyo, Japan)
 - IBM South Africa (Sandton, Gauteng, South Africa)
 - IBM United Kingdom (Multiple Cities, United Kingdom)
+- IBM Switzerland (Zurich, Switzerland)
 
 IBM Quantum Community Advocate Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%20Intern%20%20%202021
@@ -109,6 +115,9 @@ https://careers.ibm.com/ShowJob/Id/1017317/IBM-Quantum-Community-Advocate-Intern
 
 2021 IBM Quantum Community Advocate Intern (United Kingdom):
 https://careers.ibm.com/ShowJob/Id/1032762/2021-IBM-Quantum-Community-Advocate-Intern/ 
+
+Community Advocate Intern - Quantum Computing (Switzerland):
+https://www.zurich.ibm.com/careers/2020_050.html
 
 ### Quantum Designer Internships
 
