@@ -62,6 +62,9 @@ Locations:
 IBM Quantum Community Advocate Intern (United States):  
 https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%20Intern%20%20%202021
 
+IBM Quantum Community Writing Intern - 2021 (United States):
+https://careers.ibm.com/ShowJob/Id/1060222/IBM-Quantum-Community-Writing-Intern-2021/
+
 Quantum Community Advocate Intern (16 months) (Canada):
 https://careers.ibm.com/ShowJob/Id/999897/Quantum-Community-Advocate-Intern-(16-months)/
 
