@@ -52,11 +52,8 @@ We are not currently accepting new applications for IBM Quantum engineer interns
 Locations:
 
 - IBM United States (Multiple Cities, USA)
-- IBM Canada (Markham, Ontario, Canada)
-- IBM Germany (Multiple Cities, Germany)
 - IBM Japan (Tokyo, Japan)
 - IBM South Africa (Sandton, Gauteng, South Africa)
-- IBM United Kingdom (Multiple Cities, United Kingdom)
 - IBM Switzerland (Zurich, Switzerland)
 
 IBM Quantum Community Advocate Intern (United States):  
@@ -87,7 +84,7 @@ We are not currently accepting new applications for IBM Quantum designer interns
 We are not currently accepting new applications for IBM Quantum offering manager internships.
 
 
-## Early Professional (full-time) Roles
+## Full Time Roles
 
 IBM Quantum System Software Developer (Yorktown Heights, NY or remote):
 https://careers.ibm.com/ShowJob/Id/1002296/IBM-Quantum-System-Software-Developer-(Yorktown-Heights,-NY-or-remote)/
