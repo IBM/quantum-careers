@@ -65,12 +65,6 @@ https://careers.ibm.com/ShowJob/Id/980793/IBM%20Quantum%20Community%20Advocate%2
 IBM Quantum Community Writing Intern - 2021 (United States):
 https://careers.ibm.com/ShowJob/Id/1060222/IBM-Quantum-Community-Writing-Intern-2021/
 
-Quantum Community Advocate Intern (16 months) (Canada):
-https://careers.ibm.com/ShowJob/Id/999897/Quantum-Community-Advocate-Intern-(16-months)/
-
-Internship/Praktikum: Community Advocate (m/w/x) (Germany):
-https://careers.ibm.com/ShowJob/Id/1017370/Internship-Praktikum-Community-Advocate-(m-w-x)/
-
 2021 IBM Quantum Community Advocate Intern (Japan):
 
 (English) https://careers.ibm.com/ShowJob/Id/1027649/[Quantum-Advocate]Tokyo-Student-Intern%EF%BC%88Paid-Intern_TRL%EF%BC%89%E3%80%90IBM-Japan%E3%80%91/ 
@@ -79,9 +73,6 @@ https://careers.ibm.com/ShowJob/Id/1017370/Internship-Praktikum-Community-Advoca
 
 2021 IBM Quantum Community Advocate Intern (South Africa):
 https://careers.ibm.com/ShowJob/Id/1017317/IBM-Quantum-Community-Advocate-Intern/ 
-
-2021 IBM Quantum Community Advocate Intern (United Kingdom):
-https://careers.ibm.com/ShowJob/Id/1032762/2021-IBM-Quantum-Community-Advocate-Intern/ 
 
 Community Advocate Intern - Quantum Computing (Switzerland):
 https://www.zurich.ibm.com/careers/2020_050.html
@@ -98,8 +89,9 @@ We are not currently accepting new applications for IBM Quantum offering manager
 
 ## Early Professional (full-time) Roles
 
-IBM Quantum Research Staff Member (United States):  
-https://careers.ibm.com/ShowJob/Id/986522/IBM-Quantum-Research-Staff-Member-2021/
+IBM Quantum System Software Developer (Yorktown Heights, NY or remote):
+https://careers.ibm.com/ShowJob/Id/1002296/IBM-Quantum-System-Software-Developer-(Yorktown-Heights,-NY-or-remote)/
 
-Postdoctoral Researcher (United States):  
-https://careers.ibm.com/ShowJob/Id/955997/2021-Postdoctoral-Researcher/
+IBM Quantum System Performance Engr (Yorktown Heights, NY or remote):
+https://careers.ibm.com/ShowJob/Id/1050774/IBM-Quantum-System-Performance-Engr-(Yorktown-Heights,-NY-or-remote)/
+
