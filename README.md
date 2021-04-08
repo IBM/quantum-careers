@@ -1,7 +1,6 @@
 # IBM Quantum Career Opportunities
 
-Search the IBM jobs and careers website for additional quantum computing opportunities not listed below:  
-http://ibm.biz/quantum-careers
+Learn about [internship opportunities](https://www.ibm.com/quantum-computing/internship/) offered by IBM Quantum. Search the [IBM careers website](http://ibm.biz/quantum-careers) for additional quantum computing opportunities not listed below.
 
 ## Internships
 
