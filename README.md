@@ -9,7 +9,7 @@ https://research.ibm.com/blog/2022-quantum-internships
 
 Listed below you'll find the IBM Quantum internship roles available in the United States for Summer 2022. Apply by Monday, October 18, 2021 for the best chance at consideration. Applicants should submit their resumes to the appropriate job requisite(s.) Cover letters and recommendation letters are _not_ required as part of your application.
 
-International students are eligible to apply for most roles. If you have any questions about IBM Quantum internships not addressed here then please send an email to quantum@us.ibm.com and we will do our best to get back to you with a response.
+International students (based outside the United States) are eligible to apply for most roles. If you have any questions about IBM Quantum internships not addressed here then please send an email to quantum@us.ibm.com and we will do our best to get back to you with a response.
 
 ### Quantum & Qiskit Developer Intern
 
