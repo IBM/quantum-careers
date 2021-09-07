@@ -42,7 +42,7 @@ Quantum engineer summer interns will work at either the IBM Thomas J. Watson Res
 
 As an experimentalist, theorist, or quantum information scientist with IBM Quantum, your job will be to advance the field of quantum computing research. Areas of research include superconducting qubits, quantum control, quantum error correction, quantum complexity theory, quantum algorithms, quantum machine learning, and quantum compilers and optimizers (among other areas).
 
-Quantum Research Summer Intern (Master’s/PhD)
+- [Quantum Research Summer Intern](https://careers.ibm.com/job/13790225/quantum-research-summer-intern-masters-phd-2022-remote/) (Master’s/PhD)
 
 Quantum Research interns will work at either the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA) or IBM Research–Almaden (San Jose, CA, USA) for up to twelve weeks during the summer of 2022.
 
