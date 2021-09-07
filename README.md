@@ -4,46 +4,70 @@ Learn about [internship opportunities](https://www.ibm.com/quantum-computing/int
 
 ## Internships
 
-We have concluded the application period for our 2021 class of summer interns. Please check back for information about how to apply for 2022 internships later this year!
+Learn more about the application process by reading *Apply for a summer 2022 internship with IBM Quantum* on the IBM Research Blog:  
+https://research.ibm.com/blog/2022-quantum-internships
 
-### Quantum Researcher Internships
+Listed below you'll find the IBM Quantum internship roles available in the United States for Summer 2022. Apply by Monday, October 18, 2021 for the best chance at consideration. Applicants should submit their resumes to the appropriate job requisite(s.) Cover letters and recommendation letters are _not_ required as part of your application.
 
-Research interns will have the opportunity to focus on experiments, theory, or quantum information science. Areas of research could include superconducting qubits, quantum control, quantum error correction, quantum complexity theory, quantum algorithms, quantum machine learning, and quantum compilers and optimizers (among other areas).
+International students are eligible to apply for most roles. If you have any questions about IBM Quantum internships not addressed here then please send an email to quantum@us.ibm.com and we will do our best to get back to you with a response.
 
-We are not currently accepting new applications for IBM Quantum researcher internships.
+### Quantum & Qiskit Developer Intern
 
-### Quantum Developer Internships
+As a software developer with IBM Quantum, your job will be to write code for the suite of quantum software tools and cloud services that are part of our full-stack approach to delivering IBM’s quantum computing systems to quantum application developers and research scientists.
 
-Developer interns will have the opportunity to focus on kernel, algorithm, or model development. Areas of focus could include quantum machine learning, quantum biology and health informatics, quantum algorithms for chemistry, quantum simulations, quantum optimization, cloud microservices, and cloud API (among other areas).
+Areas of software development include quantum machine learning, quantum biology and health informatics, quantum algorithms for chemistry, quantum simulations, quantum optimization, quantum software architecture, cloud microservices, and cloud APIs (among other areas).
 
-We are not currently accepting new applications for IBM Quantum developer internships.
+Student software developers and software engineers interested in working with IBM Quantum can apply to one of:
+- [Quantum & Qiskit Developer Summer Intern](https://careers.ibm.com/job/13791741/quantum-qiskit-developer-summer-intern-undergraduate-2022-remote/) (Undergraduate)
+- [Quantum & Qiskit Developer Summer Intern](https://careers.ibm.com/job/13791740/quantum-qiskit-developer-summer-intern-2022-remote/) (Master's/PhD)
 
+Quantum & Qiskit developer summer interns will work at either the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA), a workplace in New York City, or IBM Research–Almaden (San Jose, CA, USA) for up to 12 weeks during the summer of 2022.
 
-### Quantum Engineer Internships
-
-Engineering interns will have the opportunity to focus on hardware or software engineering. Areas of engineering could include superconducting qubits, quantum software architecture, cryoelectronic circuit design, quantum microwave engineering, and quantum FPGA engineering (among other areas).
-
-We are not currently accepting new applications for IBM Quantum engineer internships.
-
-
-### Quantum Community Advocate Internships
-
-Community advocate interns work on projects related to quantum education, community events, and open-source software, among other areas of focus. The ideal candidate must be able to work with internal and external stakeholders in order to deliver a positive experience for quantum computing community members.
-
-We are not currently accepting new applications for IBM Quantum community advocate internships.
+_Coming soon: Quantum & Qiskit developer intern roles to be available at some of our international research labs including Zurich, Tokyo, and Haifa._
 
 
-### Quantum Designer Internships
+### Quantum Engineer Intern
 
-Design interns will have the opportunity to work on projects related to design research, user experience design, or visual design. They will work to uncover insights into the worldwide quantum computing community, and share quantum knowledge with users from the first introduction to quantum through quantum computing research and development.
+As an engineer with IBM Quantum, your job will be to advance the development of quantum computing systems. Areas of engineering include hardware, firmware, superconducting qubits, cryoelectronic circuit design, quantum microwave engineering, and quantum FPGA engineering (among other areas).
 
-We are not currently accepting new applications for IBM Quantum designer internships.
+Student engineers interested in working with IBM Quantum can apply to one of:
 
+- [Quantum Engineer Summer Intern](https://careers.ibm.com/job/13791743/quantum-engineer-summer-intern-undergrad-2022-remote/) (Undergraduate)
+- [Quantum Engineer Summer Intern](https://careers.ibm.com/job/13791742/quantum-engineer-summer-intern-masters-phd-2022-remote/) (Master's/PhD)
 
-### Quantum Offering Manager Internships
-
-Offering manager interns will have the opportunity to work on products across the IBM Quantum portfolio. The ideal candidate must be able to work with internal and external stakeholders in order to deliver a positive experience for quantum computing community members.
-
-We are not currently accepting new applications for IBM Quantum offering manager internships.
+Quantum engineer summer interns will work at either the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA) or one of the IBM Quantum labs in Rochester, MN, USA or Poughkeepsie, NY, USA for up to 12 weeks during the summer of 2022.
 
 
+### Quantum Research Intern
+
+As an experimentalist, theorist, or quantum information scientist with IBM Quantum, your job will be to advance the field of quantum computing research. Areas of research include superconducting qubits, quantum control, quantum error correction, quantum complexity theory, quantum algorithms, quantum machine learning, and quantum compilers and optimizers (among other areas).
+
+- [Quantum Research Summer Intern](https://careers.ibm.com/job/13790225/quantum-research-summer-intern-masters-phd-2022-remote/) (Master’s/PhD)
+
+Quantum Research interns will work at either the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA) or IBM Research–Almaden (San Jose, CA, USA) for up to twelve weeks during the summer of 2022.
+
+_Coming soon: Undergraduate student researchers can also apply to the Quantum Undergraduate Research at IBM and Princeton (QURIP) program once applications open. QURIP interns will work at Princeton for six weeks followed by six weeks at the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA)._
+
+
+### Other IBM Quantum Internships
+
+We are also hiring for Designer, Product Manager, and Qiskit Community Advocate internships. Designers interested in working with IBM Quantum can apply to one of:
+
+- [Design Research Summer Intern](https://careers.ibm.com/job/13527879/design-research-summer-intern-2022-remote/)
+- [User Experience Designer Summer Intern](https://careers.ibm.com/job/13522691/user-experience-designer-summer-intern-2022-remote/)
+- [Visual Design Summer Intern](https://careers.ibm.com/job/13527928/visual-design-summer-intern-2022-remote/)
+
+Product Managers interested in working with IBM Quantum can apply to:
+
+- [Product Manager Summer Intern](https://careers.ibm.com/job/13546030/product-manager-summer-intern-2022-remote/)
+
+_Coming Soon: Watch this space for remote Qiskit Community Advocate intern openings around the world, including in the United States, Switzerland, Japan, South Africa, Germany, the United Kingdom, and India._
+
+
+### General Tips on applying
+
+Applicants should submit their resume to the appropriate job requisite listed above. Please do not send your resume through email or other channels unless specifically requested. And please do not send a cover letter or recommendation letters unless specifically requested.
+
+If you have any questions about IBM Quantum internships not addressed here then please send an email to quantum@us.ibm.com and we will do our best to get back to you with a response.
+
+We hope you will consider launching your career in the field of quantum computing here at IBM. We look forward to hearing from you!
