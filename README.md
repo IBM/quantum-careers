@@ -68,6 +68,8 @@ _Coming Soon: Watch this space for remote Qiskit Community Advocate intern openi
 
 Applicants should submit their resume to the appropriate job requisite listed above. Please do not send your resume through email or other channels unless specifically requested. And please do not send a cover letter or recommendation letters unless specifically requested.
 
-If you have any questions about IBM Quantum internships not addressed here then please send an email to quantum@us.ibm.com and we will do our best to get back to you with a response.
+### Questions
+
+If you have any questions about IBM Quantum internships not addressed here then please send an email to quantum@us.ibm.com and we will do our best to get back to you with a response. The [Workforce Advocacy Team](https://github.com/orgs/IBM/teams/quantum-workforce-advocacy/members) at IBM Quantum wants to meet you!
 
 We hope you will consider launching your career in the field of quantum computing here at IBM. We look forward to hearing from you!
