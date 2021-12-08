@@ -51,6 +51,8 @@ _Now open: Undergraduate student researchers can also apply to the [Quantum Unde
 
 ### Other IBM Quantum Internships
 
+- [Quantum Partner Team Summer Intern](https://careers.ibm.com/job/14385860/quantum-partner-team-summer-intern-masters-phd-2022-yorktown-heights-ny/) (Master’s/PhD)
+
 _Coming Soon: Watch this space for remote Qiskit Community Advocate intern openings around the world, including in the United States, Switzerland, Japan, South Africa, Germany, the United Kingdom, and India._
 
 ### General Tips on applying
