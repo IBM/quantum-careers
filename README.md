@@ -1,6 +1,6 @@
 # IBM Quantum Career Opportunities
 
-Learn about [internship opportunities](https://www.ibm.com/quantum-computing/internship/) offered by IBM Quantum. Search the [IBM careers website](http://ibm.biz/quantum-careers) for additional quantum computing opportunities not listed below.
+Learn about [internship opportunities](https://www.ibm.com/quantum-computing/internship/) and entry level opportunities offered by IBM Quantum. Search the [IBM careers website](http://ibm.biz/quantum-careers) for additional quantum computing opportunities not listed below.
 
 ## Internships
 
@@ -73,3 +73,10 @@ Applicants should submit their resume to the appropriate job requisite listed ab
 If you have any questions about IBM Quantum internships not addressed here then please send an email to quantum@us.ibm.com and we will do our best to get back to you with a response. The [Workforce Advocacy Team](https://github.com/orgs/IBM/teams/quantum-workforce-advocacy/members) at IBM Quantum wants to meet you!
 
 We hope you will consider launching your career in the field of quantum computing here at IBM. We look forward to hearing from you!
+
+## Entry Level Roles
+
+- [Quantum & Qiskit Developer Entry Level](https://careers.ibm.com/job/14385861/quantum-qiskit-developer-entry-level-remote/) (Undergraduate)
+- [Quantum Engineer Entry Level](https://careers.ibm.com/job/14385864/quantum-engineer-entry-level-remote/) (Undergraduate)
+- [Quantum Engineer Entry Level](https://careers.ibm.com/job/14385863/quantum-engineer-entry-level-remote/) (Master's/PhD)
+- [Quantum Researcher Entry Level](https://careers.ibm.com/job/14387611/quantum-researcher-entry-level-remote/) (Master's/PhD)
