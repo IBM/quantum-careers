@@ -51,18 +51,7 @@ _Now open: Undergraduate student researchers can also apply to the [Quantum Unde
 
 ### Other IBM Quantum Internships
 
-We are also hiring for Designer, Product Manager, and Qiskit Community Advocate internships. Designers interested in working with IBM Quantum can apply to one of:
-
-- [Design Research Summer Intern](https://careers.ibm.com/job/13527879/design-research-summer-intern-2022-remote/)
-- [User Experience Designer Summer Intern](https://careers.ibm.com/job/13522691/user-experience-designer-summer-intern-2022-remote/)
-- [Visual Design Summer Intern](https://careers.ibm.com/job/13527928/visual-design-summer-intern-2022-remote/)
-
-Product Managers interested in working with IBM Quantum can apply to:
-
-- [Product Manager Summer Intern](https://careers.ibm.com/job/13546030/product-manager-summer-intern-2022-remote/)
-
 _Coming Soon: Watch this space for remote Qiskit Community Advocate intern openings around the world, including in the United States, Switzerland, Japan, South Africa, Germany, the United Kingdom, and India._
-
 
 ### General Tips on applying
 
