@@ -25,7 +25,6 @@ Quantum & Qiskit developer summer interns will work at either the IBM Thomas J. 
 
 _Coming soon: Quantum & Qiskit developer intern roles to be available at some of our international research labs including Zurich, Tokyo, and Haifa._
 
-
 ### Quantum Engineer Intern
 
 As an engineer with IBM Quantum, your job will be to advance the development of quantum computing systems. Areas of engineering include hardware, firmware, superconducting qubits, cryoelectronic circuit design, quantum microwave engineering, and quantum FPGA engineering (among other areas).
@@ -37,7 +36,6 @@ Student engineers interested in working with IBM Quantum can apply to one of:
 
 Quantum engineer summer interns will work at either the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA) or one of the IBM Quantum labs in Rochester, MN, USA or Poughkeepsie, NY, USA for up to 12 weeks during the summer of 2022.
 
-
 ### Quantum Research Intern
 
 As an experimentalist, theorist, or quantum information scientist with IBM Quantum, your job will be to advance the field of quantum computing research. Areas of research include superconducting qubits, quantum control, quantum error correction, quantum complexity theory, quantum algorithms, quantum machine learning, and quantum compilers and optimizers (among other areas).
@@ -47,7 +45,6 @@ As an experimentalist, theorist, or quantum information scientist with IBM Quant
 Quantum Research interns will work at either the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA) or IBM Research–Almaden (San Jose, CA, USA) for up to twelve weeks during the summer of 2022.
 
 _Now open: Undergraduate student researchers can also apply to the [Quantum Undergraduate Research at IBM and Princeton (QURIP)](https://www.ibm.com/quantum-computing/internship/qurip/) program. QURIP interns will work at Princeton for six weeks followed by six weeks at the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA)._
-
 
 ### Other IBM Quantum Internships
 
