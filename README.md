@@ -46,7 +46,7 @@ As an experimentalist, theorist, or quantum information scientist with IBM Quant
 
 Quantum Research interns will work at either the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA) or IBM Research–Almaden (San Jose, CA, USA) for up to twelve weeks during the summer of 2022.
 
-_Coming soon: Undergraduate student researchers can also apply to the Quantum Undergraduate Research at IBM and Princeton (QURIP) program once applications open. QURIP interns will work at Princeton for six weeks followed by six weeks at the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA)._
+_Now open: Undergraduate student researchers can also apply to the [Quantum Undergraduate Research at IBM and Princeton (QURIP)](https://www.ibm.com/quantum-computing/internship/qurip/) program. QURIP interns will work at Princeton for six weeks followed by six weeks at the IBM Thomas J. Watson Research Center (Yorktown Heights, NY, USA)._
 
 
 ### Other IBM Quantum Internships
