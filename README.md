@@ -48,7 +48,17 @@ _Now open: Undergraduate student researchers can also apply to the [Quantum Unde
 
 ### Other IBM Quantum Internships
 
-- [Quantum Partner Team Internship](https://careers.ibm.com/job/14679935/quantum-partner-team-internship-2022-masters-phd-remote/) (Master’s/PhD)
+- [Quantum Community Developer Intern, United States](https://careers.ibm.com/job/14836566/quantum-community-developer-intern-graduate-remote/) (Master’s/PhD)
+- [Qiskit Metal Developer, United States](https://careers.ibm.com/job/14507394/qiskit-metal-developer-ibm-quantum-nyc-area-preferred-remote/)
+- [Quantum Partner Team Internship, United States](https://careers.ibm.com/job/14679935/quantum-partner-team-internship-2022-masters-phd-remote/) (Master’s/PhD)
+- [Quantum Advocate, Tokyo, Japan](https://careers.ibm.com/job/14446098/-quantum-advocate-tokyo-student-intern-paid-intern-trl-ibm-japan-tokyo-jp/)
+- [Quantum Advocate, Tokyo, Japan](https://careers.ibm.com/job/14446121/-quantum-advocate-tokyo-student-intern-paid-intern-trl-ibm-japan-tokyo-jp/)
+- [Quantum Research Student Intern, Tokyo, Japan](https://careers.ibm.com/job/14181387/-ibm-quantum-research-tokyo-student-intern-paid-intern-trl-ibm-japan-tokyo-jp/)
+- [Quantum Research Student Intern, Tokyo, Japan](https://careers.ibm.com/job/14181430/-ibm-quantum-research-tokyo-student-intern-paid-intern-trl-ibm-japan-tokyo-jp/)
+- [Quantum Control Electronics FPGA Logic Designer, Boeblingen, Germany](https://careers.ibm.com/job/14838843/quantum-control-electronics-fpga-logic-designer-m-w-x-remote/) (m/w/x)
+- [Quantum Control Electronics Verification Developer, Boeblingen, Germany](https://careers.ibm.com/job/14838841/internship-quantum-control-electronics-verification-developer-m-w-x-remote/) (m/w/x)
+- [Quantum Control Electronic Firmware Developer, Boeblingen, Germany](https://careers.ibm.com/job/14845228/internship-quantum-control-electronic-firmware-developer-m-w-x-remote/) (m/w/x)
+- [Quantum Summer Internship – Research Lab, Haifa, Israel](https://careers.ibm.com/job/14334613/quantum-msc-and-phd-summer-internship-2022-research-lab-haifa-il/) (Master’s/PhD)
 
 _Coming Soon: Watch this space for remote Qiskit Community Advocate intern openings around the world, including in the United States, Switzerland, Japan, South Africa, Germany, the United Kingdom, and India._
 
