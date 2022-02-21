@@ -55,6 +55,8 @@ _Now open: Undergraduate student researchers can also apply to the [Quantum Unde
 - [Quantum Advocate, Tokyo, Japan](https://careers.ibm.com/job/14446121/-quantum-advocate-tokyo-student-intern-paid-intern-trl-ibm-japan-tokyo-jp/)
 - [Quantum Research Student Intern, Tokyo, Japan](https://careers.ibm.com/job/14181387/-ibm-quantum-research-tokyo-student-intern-paid-intern-trl-ibm-japan-tokyo-jp/)
 - [Quantum Research Student Intern, Tokyo, Japan](https://careers.ibm.com/job/14181430/-ibm-quantum-research-tokyo-student-intern-paid-intern-trl-ibm-japan-tokyo-jp/)
+- [BlueCamp Internship Program: Developer for Quantum Community, Spain](https://careers.ibm.com/job/15057252/bluecamp-internship-program-developer-for-quantum-community-remote/)
+- [BlueCamp Internship Program: Developer for Quantum Community, Spain](https://careers.ibm.com/job/15066867/bluecamp-internship-program-developer-for-quantum-community-remote/)
 - [Quantum Control Electronics FPGA Logic Designer, Boeblingen, Germany](https://careers.ibm.com/job/14838843/quantum-control-electronics-fpga-logic-designer-m-w-x-remote/) (m/w/x)
 - [Quantum Control Electronics Verification Developer, Boeblingen, Germany](https://careers.ibm.com/job/14838841/internship-quantum-control-electronics-verification-developer-m-w-x-remote/) (m/w/x)
 - [Quantum Control Electronic Firmware Developer, Boeblingen, Germany](https://careers.ibm.com/job/14845228/internship-quantum-control-electronic-firmware-developer-m-w-x-remote/) (m/w/x)
