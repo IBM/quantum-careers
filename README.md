@@ -44,12 +44,10 @@ _[Quantum Undergraduate Research at IBM and Princeton (QURIP)](https://www.ibm.c
 - [Quantum Community Developer Intern, United States](https://careers.ibm.com/job/14836566/quantum-community-developer-intern-graduate-remote/) (Master’s/PhD)
 - [Quantum Partner Team Internship, United States](https://careers.ibm.com/job/14679935/quantum-partner-team-internship-2022-masters-phd-remote/) (Master’s/PhD)
 - [Quantum Marketing Summer Intern](https://careers.ibm.com/job/14993324/quantum-marketing-summer-intern-remote/)
-- [Extreme Blue: Quantum & Qiskit Developer Summer Intern 2022](https://careers.ibm.com/job/15072626/extreme-blue-quantum-qiskit-developer-summer-intern-2022-remote/)
 - [Quantum Advocate, Tokyo, Japan](https://careers.ibm.com/job/14446098/-quantum-advocate-tokyo-student-intern-intern-trl-ibm-japan-tokyo-jp/)
 - [Quantum Advocate, Tokyo, Japan](https://careers.ibm.com/job/14446121/-quantum-advocate-tokyo-student-intern-intern-trl-ibm-japan-tokyo-jp/)
 - [Quantum Research Student Intern, Tokyo, Japan](https://careers.ibm.com/job/14181387/-ibm-quantum-research-tokyo-student-intern-intern-trl-ibm-japan-tokyo-jp/)
 - [Quantum Research Student Intern, Tokyo, Japan](https://careers.ibm.com/job/14181430/-ibm-quantum-research-tokyo-student-intern-intern-trl-ibm-japan-tokyo-jp/)
-- [BlueCamp Internship Program: Developer for Quantum Community, Spain](https://careers.ibm.com/job/15057252/bluecamp-internship-program-developer-for-quantum-community-remote/)
 - [BlueCamp Internship Program: Developer for Quantum Community, Spain](https://careers.ibm.com/job/15066867/bluecamp-internship-program-developer-for-quantum-community-remote/)
 
 ### General Tips on applying
