@@ -1,83 +1,68 @@
-# Coding Exercise Frontend
+# Frontend coding exercise
 
-This repository contains a coding exercise for new developers joining the frontend development team. This version is focused in Vue.
+This repository contains the instructions for the coding exercise for new developers joining the **front-end** development team for IBM Quantum.
 
-Fork this repository and create your own exercise!
 
 ## What we want you to build
 
-Your mission is to build a small [Pokedex](https://www.pokemon.com/us/pokedex/) application that looks similar to the next (but remember, you have freedom to express yourself!):
 
-List View           |  Detail View
-:-------------------------:|:-------------------------:
-![](example/example-list-view.png) |  ![](example/example-detail-view.png)
+Your mission is to build a small Pokedex application (to list and get information about Pokemon) that looks similar to the next (but remember, you have the freedom to express yourself!):
 
-A video example can be found in the example folder in the root of the directory as `example.mov`
+|             List View              |             Detail View              |
+|:----------------------------------:|:------------------------------------:|
+| ![](example/example-list-view.png) | ![](example/example-detail-view.png) |
+
+A video example can be found in the example folder at the root of the directory as `example.mov`
+
 
 The features we expect that your app would contain would be:
 
-- Search for Pokemon by text through use of a search bar.
+
+- View all the Pokemon on a list and grid view. Take in count pagination (infinite scroll, simple pagination...)
+- Search for Pokemon by text through the use of a search bar.
 - Filter Pokemon by type using a dropdown.
 - Add and remove a Pokemon to and from your Favorites by clicking the heart icon.
-- Use tabs to switch between `All` Pokemon and `Favorite` Pokemon views.
-- Change the view from either a grid or list.
-- View Pokemon details using a `/:name` route.
-- Clicking on a Pokemon image or name should navigate to the above route to view the Pokemon details.
-- On the Pokemon details page, have a speaker icon that, when clicked, plays the sound of that Pokemon.
-
-In addition to the above features, below are some optional features that we'd love to see:
-- Infinitely scrolled or paginated list to handle on-demand data-fetching for the long list of Pokemon.
-- Add a quick view button on the Pokemon list items that shows a modal with more information of the Pokemon.
-- Add toast notifications to show success or error messages when adding or removing a Pokemon to and from your Favorites.
-- Page transitions.
-
-## What we provide in this repository
-
-### Backend (`/backend`)
-We have provided you with a simple [GraphQL](https://graphql.org/learn) server that serves Pokemon data. The server is non-persistent and therefore on server restart, data will reset.
-
-To run the server:
-
-```
-$ cd backend
-$ npm install
-$ npm start
-```
-
-After running the backend, you can access https://localhost:4000/graphql in the browser, you'll be presented with a GraphQL Playground that allows you to run Queries and Mutations as well as view the GraphQL Schema.
-
-A sample query:
-```
-query { pokemons(query: { limit: 10, offset: 0 }) { edges { name } } }
-```
-
-### Frontend (`/frontend`)
-Within the folder frontend there is a simple boilerplate of a Vue app, created using the Vue CLI and based on the default Sites preset which includes: vue-router, vuex, sass, babel, eslint, unit-jest, e2e-cypress. Feel free to change this folder as you wish.
-
-To run the frontend: 
-
-```
-$ cd frontend
-$ npm install
-$ npm run serve
-```
-
-Access your application within http://localhost:8080/.
-
-### Technology and boilerplate
-
-You are free to use whatever stack you want but what we value the most is [Vue](https://vuejs.org/). We have put together a boilerplate that includes packages and folders ready to create a flow similar to our app including:
-
-- [Vue](https://vuejs.org/).
-- [Vue Router](https://router.vuejs.org/).
-- [Vuex](https://vuex.vuejs.org/). This is optional (you can use it to keep the state of the list once you go back from a pokemon details).
-- [Vue Apollo](https://vue-apollo.netlify.com/). This is optional, alternatively you can query the server using Axios.
-
-Use only what you are comfortable with and feel free to use any additional libraries you deem necessary to complete the exercise. You can use any component libraries such as [Vuetify](https://vuetifyjs.com/en/), etc. **However**, we would like to see your CSS skills so make sure you show them to us! (layout, animation/transitions...).
+- Switch between `All` Pokemon and `Favorite` Pokemon views.
+- View Pokemon details including their evolutions.
 
 
-### Hints
-- There is no need to configure a build, the development environment is sufficient.
-- It's recommented to use a CSS pre-processor, by default the frontend boilerplate comes with Sass.
-- **Tests** are important and if time allows it, we'd like to see *some* test coverage.
-- Feel free to ask us if you have any doubt or you face any problem!
+In your exercise, include a Readme file mentioning the technologies used and the reasons why. Also if there is something new that you have just learned for this exercise, please let us know too.
+
+
+## What we provide
+
+
+We have provided you with a simple **Rest/GraphQL API** server that serves Pokemon data and allows you to favorite/unfavorite them. You can find the endpoints and documentation in:
+
+
+[Pokedex API](https://pokedex-2gc4.onrender.com/)
+
+
+## Technology
+
+
+- Typescript is the only required technology.
+- You can use any framework you want: React, Vue, Svelte...
+- You can use any meta-framework you want: Next, Nuxt, Remix, ... (*Please, don't waste your time configuring webpack manually*)
+- You can use any component library you want
+- You can use anything for styling: plain css, scss, css-in-js, ...
+
+
+Use only what you are comfortable with and feel free to use any additional libraries you deem necessary to complete the exercise.
+
+
+## How we will evaluate your exercise
+
+
+We will evaluate your exercise in three main areas:
+
+
+- **Features**: Does it fulfill all the required features? Do they work as intended? Does it manage loading and error states?
+- **Look and feel, usability and responsiveness**: Here we will evaluate if the components and layout chosen makes sense for the features are easy to use, and works on a variety of device screens.
+- **Code quality**: We will evaluate your code, if it's easy to follow, includes tests and it's well structured.
+
+
+----
+
+
+Feel free to ask us if you have any doubts or face any problems!
