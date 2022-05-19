@@ -35,7 +35,7 @@ In your exercise, include a Readme file mentioning the technologies used and the
 We have provided you with a simple **Rest/GraphQL API** server that serves Pokemon data and allows you to favorite/unfavorite them. You can find the endpoints and documentation in:
 
 
-[Pokedex API](https://pokedex-2gc4.onrender.com/)
+[Pokedex API](https://q-exercise-api.o64ixruq9hj.us-south.codeengine.appdomain.cloud/)
 
 
 ## Technology
